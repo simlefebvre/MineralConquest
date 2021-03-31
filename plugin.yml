@@ -1,0 +1,16 @@
+name: MineralConquest
+main: fr.simon.main.MainClass
+author: SimonLefebvre
+version: 1.0
+api-version: 1.16
+commands:
+  mcteam:
+    description: on taffe dessus tkt
+  mczone:
+    description: on taffe dessus aussi
+  mcarene:
+    description: on taffe dessus aussi
+  start:
+    description: on taffe dessus aussi
+  rules:
+    description: on taffe dessus aussi  
